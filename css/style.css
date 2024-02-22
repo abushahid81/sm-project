@@ -1,0 +1,61 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+/* body{
+    background-image: url(/image/The\ Best\ Buzzwords\ For\ Your\ Resume.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.momo{
+    border-radius: 3px;
+
+    
+} */
+.moo{
+    color: #ff008c !important;
+}
+.boom{
+    background-color: #ff008c !important;
+}
+
+.cover-text{
+    padding-top: 150px;
+    
+}
+
+.button-change{
+    justify-content: end;
+    border-start-end-radius: 0 100px !important ;
+}
+
+.ab-re{
+    position: relative;
+}
+
+.two-img{
+    position: absolute;
+    margin-top: 100px;
+  margin-left: -50px;
+}
+
+.three-topic{
+    padding-top: 180px;
+}
+
+.three-one{
+    padding-top: 100px;
+}
+
+.three-two{
+    padding-left: 80px;
+}
+
+.three-three{
+    padding-left: 80px;
+    padding-top: 100px;
+}
