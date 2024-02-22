@@ -30,7 +30,7 @@
 
 .button-change{
     justify-content: end;
-    border-start-end-radius: 0 100px !important ;
+    border-start-end-radius: 150px !important ;
 }
 
 .ab-re{
@@ -39,7 +39,7 @@
 
 .two-img{
     position: absolute;
-    margin-top: 100px;
+    margin-top: -50px;
   margin-left: -50px;
 }
 
@@ -58,4 +58,7 @@
 .three-three{
     padding-left: 80px;
     padding-top: 100px;
+}
+.booty{
+   direction: rtl;
 }
